@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://clouddevelopmentpartner.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Cloud Development Partner"
 # Edit your config.toml configuration file
 # and add the Ananke theme.
 theme = "ananke"
